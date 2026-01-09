@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building scalable frontend features with React<br><br>👯 I’m looking to collaborate on: Frontend projects, SaaS products, or open-source<br><br>🤝 I’m looking for help with: System design and performance optimization<br><br>🌱 I’m currently learning: Advanced React patterns and frontend architecture<br><br>💬 Ask me about: React, JavaScript, UI performance, and clean code<br><br>⚡ Fun fact: I enjoy breaking UIs just to fix them better 😄
+🔭 Building scalable frontend features with React<br><br>👯 Frontend projects, SaaS products, or open-source<br><br>🤝 System design and performance optimization<br><br>🌱 Advanced React patterns and frontend architecture<br><br>💬 Ask me about: React, JavaScript, UI performance, and clean code<br><br>⚡ Fun fact: I enjoy breaking UIs just to fix them better 😄
 
 
 ## 🌐 Socials:
